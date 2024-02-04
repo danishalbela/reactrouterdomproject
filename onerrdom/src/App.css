@@ -1,0 +1,25 @@
+nav{
+   border: 2px solid red;
+   padding: 15px;
+   background-color: rgb(1, 37, 33);
+}
+nav a{
+    color: aliceblue;
+    list-style: none;
+    text-decoration: none;
+    margin: 0 20px;
+    font-size: 20px;
+    
+}
+nav a.active{
+    font-size: large;
+    font-style: italic;
+    background-color: burlywood;
+    padding: 5px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+}
+.myProduct{
+    background-color: brown;
+}
